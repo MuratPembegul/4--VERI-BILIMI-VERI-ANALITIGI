@@ -2,7 +2,8 @@
 
 # 📊 Veri Bilimi & Veri Analitiği
 
-![Veri Bilimi](!(https://github.com/user-attachments/assets/f358d3ab-aad5-4455-a07c-a62cc7eaf5dd)
+![Veri Bilimi]![veri analitiği](https://github.com/user-attachments/assets/e3b65cab-9954-4bab-b47b-990b6841a870)
+
 
 
 ## 📌 Proje Hakkında
