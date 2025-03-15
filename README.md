@@ -2,7 +2,8 @@
 
 # 📊 Veri Bilimi & Veri Analitiği
 
-![Veri Bilimi](https://your-image-link-here.com)
+![Veri Bilimi](![veri analitiği](https://github.com/user-attachments/assets/f358d3ab-aad5-4455-a07c-a62cc7eaf5dd)
+)
 
 ## 📌 Proje Hakkında
 Bu proje, **Veri Bilimi** ve **Veri Analitiği** konularını kapsayan çeşitli çalışmalar içerir. 
@@ -54,6 +55,6 @@ Bu repoda **veri temizleme, analiz, görselleştirme ve makine öğrenmesi** gib
 
 ## 📬 İletişim
 📌 **GitHub:** [MuratPembegul](https://github.com/MuratPembegul)  
-📌 **E-Posta:** 📩 (Buraya mail eklenebilir)  
+  
 
 🚀 **Projeye yıldız bırakmayı unutma!** ⭐
