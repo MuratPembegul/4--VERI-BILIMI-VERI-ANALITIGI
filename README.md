@@ -2,8 +2,8 @@
 
 # 📊 Veri Bilimi & Veri Analitiği
 
-![Veri Bilimi](![veri analitiği](https://github.com/user-attachments/assets/f358d3ab-aad5-4455-a07c-a62cc7eaf5dd)
-)
+![Veri Bilimi](!(https://github.com/user-attachments/assets/f358d3ab-aad5-4455-a07c-a62cc7eaf5dd)
+
 
 ## 📌 Proje Hakkında
 Bu proje, **Veri Bilimi** ve **Veri Analitiği** konularını kapsayan çeşitli çalışmalar içerir. 
