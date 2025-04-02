@@ -62,3 +62,4 @@ Bu repoda **veri temizleme, analiz, görselleştirme ve makine öğrenmesi** gib
 
 # Güncelleme Veri Analatiği Kodları Eklendi.
 # Güncelleme: Kişisel Veri Analizi Kodları Eklendi.
+# Güncelleme: Tanımlayıcı İstatistikler Kodları Eklendi.
