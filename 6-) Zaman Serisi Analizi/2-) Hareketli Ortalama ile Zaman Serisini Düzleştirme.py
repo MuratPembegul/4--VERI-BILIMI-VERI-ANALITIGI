@@ -1,0 +1,10 @@
+df["Hareketli_Ortalama"] = df["Değer"].rolling(window=7).mean()
+
+plt.figure(figsize=(10,5))
+plt.plot(df["Değer"], label="Orijinal Veri", alpha=0.5)
+plt.plot(df["Hareketli_Ortalama"], label="7 Günlük Hareketli Ortalama", color="red")
+plt.xlabel("Tarih")
+plt.ylabel("Değer")
+plt.title("Hareketli Ortalama ile Zaman Serisi Analizi")
+plt.legend()
+plt.show()
