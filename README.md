@@ -67,4 +67,5 @@ Bu repoda **veri temizleme, analiz, görselleştirme ve makine öğrenmesi** gib
 # Güncelleme: Hipotez Kodları Eklendi.
 # Güncelleme: Zaman Serisi Analizi Kodları Eklendi.
 # Güncelleme Müşteri Segmentasyonu Kodları Eklendi.
+# Güncelleme: Tahmine Dayalı Analitik Kodları Eklendi.
 
